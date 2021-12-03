@@ -1,5 +1,5 @@
 # T-BeamHeliumMapper
- This is software for the TTGO T-Beam rev 1.1 to map the Helium network.  The libraries needed are included and must be the versions used.  See the hackster documentation for further setup and use.
+ This is software for the TTGO T-Beam rev 1.1 to map the Helium network.  The libraries needed are included and must be the versions used.  See the hackster documentation for further setup and use. https://www.hackster.io/kritch83/ttgo-t-beam-helium-mapper-bd3017
  
  
 ## Using the Mapper
